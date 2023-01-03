@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usmanrashidk
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java script & react
+- 👀 I’m interested in Mobile App development
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me usman1994rasheed@gmail.com
 
 <!---
